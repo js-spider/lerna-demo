@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "packages/*",
+    "commands/*"
+  ],
+  "version": "independent"
+}
