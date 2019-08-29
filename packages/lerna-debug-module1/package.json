@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "js-spider",
+  "author": "js-spider <455381391@qq.com>",
   "license": "MIT"
 }
