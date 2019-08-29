@@ -1,5 +1,5 @@
 {
-  "name": "module2",
+  "name": "lerna-debug-module2",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
