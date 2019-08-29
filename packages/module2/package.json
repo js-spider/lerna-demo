@@ -1,6 +1,6 @@
 {
   "name": "module2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "pangchao <pangchao@zetyun.com>",
   "license": "MIT",
   "dependencies": {
-    "module1": "^1.0.0"
+    "module1": "^1.0.1"
   }
 }
