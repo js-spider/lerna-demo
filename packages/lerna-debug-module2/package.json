@@ -1,6 +1,6 @@
 {
   "name": "lerna-debug-module2",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "js-spider <455381391@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "lerna-debug-module1": "^1.0.2"
+    "lerna-debug-module1": "^1.0.3"
   }
 }
