@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "pangchao <pangchao@zetyun.com>",
+  "author": "js-spider",
   "license": "MIT",
   "dependencies": {
     "lerna-debug-module1": "^1.0.2"
